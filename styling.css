@@ -962,21 +962,22 @@ button:hover {
 /* ------sign and sing up btn------*/
 
 .main .btnLogin-popup {
-    width: 130px;
-    height: 45px;
+    width: auto;
+    height: auto;
+    padding: 5px 5px;
     background: transparent;
     border: 2px solid black;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 16px;
     color: black;
     font-weight: 500;
-    margin-left: 40px;
+
    
 }
 .main .btnLogin-popup:hover {
-    background: green;
+    background: rgb(128, 0, 0);
     color: black
 }
 body1 {
